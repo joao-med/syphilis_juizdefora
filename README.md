@@ -4,7 +4,7 @@ The main objetctive of this project is to create vizualizations and descriptive 
 
 # Fecthing Data
 
-Data herein are available in http://indicadoressifilis.aids.gov.br/. Moreover this data was processed in Excel and futher introduced to a R project.
+Data herein are available in http://indicadoressifilis.aids.gov.br/. Moreover this data was processed in Excel and further introduced to a R project.
 
 # Methodology
 
